@@ -1,7 +1,5 @@
 # clase-16
 
-# clase15
-
 VOLEIBOL
 
 El deporte detrás del reconocido abrazo de celebración
