@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 2650 1080" style="enable-background:new 0 0 2650 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FCCA21;}
+	.st1{fill:#B3B3B3;}
+	.st2{fill:#E5682B;}
+	.st3{fill:none;stroke:#000000;stroke-width:7;stroke-miterlimit:10;}
+	.st4{fill:#FCCA21;stroke:#FCCA21;stroke-width:7;stroke-miterlimit:10;}
+	.st5{fill:none;}
+	.st6{font-family:'MyriadPro-Regular';}
+	.st7{font-size:100px;}
+	.st8{fill:#B3B3B3;stroke:#B3B3B3;stroke-width:7;stroke-miterlimit:10;}
+	.st9{fill:#E5682B;stroke:#E5682B;stroke-width:7;stroke-miterlimit:10;}
+</style>
+<g id="Capa_1">
+</g>
+<g id="Capa_2">
+	<g>
+		<rect x="207.5" y="440.9" class="st4" width="199" height="198.3"/>
+		<rect x="481.5" y="504" class="st5" width="305.7" height="72"/>
+		<text transform="matrix(1 0 0 1 481.4966 574.999)" class="st6 st7">Oro</text>
+	</g>
+	<g>
+		<rect x="1048.2" y="440.9" class="st8" width="199" height="198.3"/>
+		<rect x="1322.1" y="504" class="st5" width="305.7" height="72"/>
+		<text transform="matrix(1 0 0 1 1322.1493 574.9991)" class="st6 st7">Plata</text>
+	</g>
+	<g>
+		<rect x="1888.5" y="440.9" class="st9" width="199" height="198.3"/>
+		<rect x="2162.5" y="504" class="st5" width="305.7" height="72"/>
+		<text transform="matrix(1 0 0 1 2162.4734 574.9991)" class="st6 st7">Bronce</text>
+	</g>
+</g>
+</svg>
