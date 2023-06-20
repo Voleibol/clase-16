@@ -31,6 +31,7 @@ Circunferencia: 65-67 centímetros
 Peso: 260-280 gramos 
 Su presión interna medirá entre 0,30 y 0,325 kg/cm²
 Material: Cubierta flexible de cuero o cuero sintético, además de una cámara interior de caucho o material similar.
+Colores: Suele ser amarilla con azul o blanco con rojo y verde. 
 
 PAÍSES AMERICANOS DESTACADOS
 En el caso de los Juegos Panamericanos, el vóleibol fue incluido en la edición de Ciudad de México 1955 donde ingresó con ambas ramas al programa. El líder panamericano en el vóleibol es Cuba, país que cuenta con 13 medallas de oro
