@@ -9,7 +9,7 @@
 	.st3{enable-background:new    ;}
 	.st4{fill:none;}
 </style>
-<image style="overflow:visible;" width="700" height="300" xlink:href="clase-15-main/img/saque-2.jpg"  transform="matrix(1.2278 0 0 1.2278 0 7.1451)">
+<image style="overflow:visible;" width="700" height="300" xlink:href="saque-2.jpg"  transform="matrix(1.2278 0 0 1.2278 0 7.1451)">
 </image>
 <text transform="matrix(1 0 0 1 182.0919 79.8475)" class="st0 st1">Palma abierta</text>
 <line class="st2" x1="275.8" y1="120.6" x2="275.8" y2="68.8"/>
